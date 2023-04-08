@@ -1,0 +1,45 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
+
+.heading{
+    background-color: blue;
+    text-align: center;
+    padding: 20px;
+    color: aliceblue;
+    margin-bottom: 20px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.img-thumbnail{
+    height: 30rem;
+    width:30rem;
+}
+
+.dhoni-earlylife{
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+    
+}
+
+.hr-style{
+    /* border: 2px solid red; */
+    border-top: 4px double red;
+	text-align: center;
+}
+
+.dhoni-achievements{
+   padding-left: 5rem;
+   
+}
+
+.dhoni-award{
+    padding-top: 2rem;
+}
+
+#img-award{
+    height: 25rem;
+    
+}
+
